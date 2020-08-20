@@ -2,11 +2,12 @@ Fitness Application:
 
 A responsive CRUD web-application that can log exercises amongst friends.
 
-technologies used:
+Technologies used:
 
 Backend:
 - Node
 - Express
+
 Mongoose Database:
 - MongoDB atlas
 
